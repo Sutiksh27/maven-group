@@ -24,7 +24,7 @@ export default function Page() {
 
             <div className="flex flex-col lg:flex-row w-full justify-center mt-10 mb-20 px-4 md:px-10">
     <div className="flex flex-col mx-4 lg:mx-10 mb-10 lg:mb-0 w-full lg:w-1/2">
-        <p className="text-2xl md:text-3xl font-bold">General Inquiries</p>
+        <p className=" my-4 text-2xl md:text-3xl font-bold">General Inquiries</p>
         <div >
             <p className="flex flex-1 font-bold">Email: chris@mavengroups.com</p>
             
@@ -33,8 +33,9 @@ export default function Page() {
             <p className="flex flex-1 font-bold">Phone: +1 (818) 284-3389</p>
             
         </div>
-        <p className="my-4">1515 Sepulveda Boulevard<br />
-            Los Angeles, CA 90025</p>
+        <p className="my-4">9350 Wilshire Blvd, Suite 203 | Beverly Hills<br />
+                        CA 90212</p>
+                    <p className="my-4">Licence ID - 02235958</p>
 
         <p className="text-2xl md:text-3xl font-bold">Executive Team</p>
         <p className="text-lg md:text-xl font-semibold mt-4">Chris Mavian</p>
