@@ -40,7 +40,6 @@ export default function Page() {
         <p className="text-2xl md:text-3xl font-bold">Executive Team</p>
         <p className="text-lg md:text-xl font-semibold mt-4">Chris Mavian</p>
         <p className="flex">chris@mavengroups.com</p>
-        <p className="flex">+1 (818) 284-3389</p>
     </div>
     <div className="flex w-full lg:w-1/2 lg:mx-10">
         <ContactForm />
